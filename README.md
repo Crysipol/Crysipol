@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a first year Computer Science Student At Hunter College. My interests include making websites and making games in Unity.
 
-[![Crysipol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crysipol)](https://github.com/anuraghazra/github-readme-stats)
+![Crysipol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crysipol&show_icons=true&theme=radical)
 <!--
 **Crysipol/Crysipol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
