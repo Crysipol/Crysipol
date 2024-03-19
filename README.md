@@ -3,6 +3,8 @@
 <!--
 **Crysipol/Crysipol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I am a first year Computer Science Student At Hunter College. My interests include making websites and making games in Unity.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
