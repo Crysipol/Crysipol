@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a first year Computer Science Student At Hunter College. My interests include making websites and making games in Unity.
+I am a second year Computer Science Student At Hunter College. My interests include making websites and making games in Unity.
 
 <!--
 **Crysipol/Crysipol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
